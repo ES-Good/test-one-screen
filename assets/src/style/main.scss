@@ -1,0 +1,15 @@
+// Подключение своих SCSS файлов
+@import "variables"; //переменные
+@import "template/page-style"; 
+@import "template/grid"; //кнопки
+@import "template/btn"; //кнопки
+@import "template/title"; //заголовки
+@import "template/fonts"; //шрифты
+@import "template/logo"; 
+
+
+
+
+@import "my";
+@import "media";
+

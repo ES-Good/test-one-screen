@@ -1,0 +1,12 @@
+.title{
+    &_lvl-1{
+        font-size: $mob-fz-tit-lvl-1;
+        font-weight: 700;
+    }
+    &_lvl-2{
+        font-size: $mob-fz-tit-lvl-2;
+        font-weight: 500;
+        color: $color-prompt;
+        margin-bottom: 6vh;
+    }
+}

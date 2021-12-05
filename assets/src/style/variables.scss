@@ -1,0 +1,29 @@
+//title
+$fz-tit-lvl-1: 60px;
+$fz-tit-lvl-2: 32px;
+
+//мобильные
+$mob-fz-tit-lvl-1: 40px;
+$mob-fz-tit-lvl-2: 20px;
+
+//title
+
+//text
+$color-info: orange; // некоторый выделяющийся текст
+$color-prompt:#BCBABA; 
+//text
+
+//color
+$red: #D6001C;
+//color
+
+@mixin circle-bg {
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+@mixin w-and-h-100 {
+    width: 100%;
+    height: 100%;
+}
